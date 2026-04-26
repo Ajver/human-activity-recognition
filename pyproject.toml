@@ -1,0 +1,14 @@
+[project]
+name = "human-activity-recognition"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "~=3.11.0"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.4",
+    "openml>=0.15.1",
+    "pandas>=3.0.2",
+    "torch>=2.11.0",
+]
