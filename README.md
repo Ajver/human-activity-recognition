@@ -10,3 +10,9 @@ is built from the recordings of 30 subjects performing activities of daily livin
 ```sh
 uv sync
 ```
+
+## Logs preview
+
+```sh
+uv run tensorboard --logdir runs
+```
