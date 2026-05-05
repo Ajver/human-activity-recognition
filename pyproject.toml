@@ -11,5 +11,6 @@ dependencies = [
     "openml>=0.15.1",
     "optuna>=4.8.0",
     "pandas>=3.0.2",
+    "tensorboard>=2.20.0",
     "torch>=2.11.0",
 ]
